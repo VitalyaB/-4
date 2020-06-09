@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Программы С#\ООП\ООП 4\ООП 4\bin\Debug\ООП 4.exe.config
+C:\Users\User\Desktop\Программы С#\ООП\ООП 4\ООП 4\bin\Debug\ООП 4.exe
+C:\Users\User\Desktop\Программы С#\ООП\ООП 4\ООП 4\bin\Debug\ООП 4.pdb
+C:\Users\User\Desktop\Программы С#\ООП\ООП 4\ООП 4\obj\Debug\ООП 4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Программы С#\ООП\ООП 4\ООП 4\obj\Debug\ООП 4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Программы С#\ООП\ООП 4\ООП 4\obj\Debug\ООП 4.exe
+C:\Users\User\Desktop\Программы С#\ООП\ООП 4\ООП 4\obj\Debug\ООП 4.pdb
